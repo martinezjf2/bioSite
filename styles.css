@@ -1,0 +1,45 @@
+body {
+    font-family: 'Source', Verdana, Arial, sans-serif;
+}
+
+
+img {
+    width: 25%;
+    margin: 10px;
+    padding-top: 10px;
+}
+
+#navbar {
+    padding: 25px 15px 15px 10px;
+    text-align: center;
+}
+
+a {
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 20px;
+}
+
+#about-image {
+    display: block;
+    width: 35%;
+   margin: auto auto;
+}
+
+.about-image {
+    width: 100%;
+    margin: 0;
+}
+
+#about-description {
+    display: block;
+}
+
+#heading {
+text-align: center;
+font-size: 30px;
+}
+
+h1 {
+    margin: 0
+}
