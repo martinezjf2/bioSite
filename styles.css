@@ -88,3 +88,21 @@ h1 {
     /* line-spacing: 1.5; */
   }
 
+  #details div{
+    float: left;
+    width: 33%;
+    text-align: center;
+    color: #fff;
+    font-size: 15px;
+    background-color: #3f4e4f;
+    line-height: 1.9;
+    padding-bottom: 30px;
+  }
+
+  #details a {
+    font-size: 15px;
+  }
+
+  #details {
+    padding: 25px 5px 25px 5px
+  }
