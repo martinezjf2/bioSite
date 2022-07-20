@@ -104,5 +104,12 @@ h1 {
   }
 
   #details {
-    padding: 25px 5px 25px 5px
+    padding: 30px 0px 25px 0px;
+    margin: 0;
+  }
+
+  #name-link {
+    background-color: #3f4e4f;
+    text-align: center;
+
   }
